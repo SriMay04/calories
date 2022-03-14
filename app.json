@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "calories",
+    "slug": "snack-b925e507-5a33-4a4d-a3cd-bb81b023806d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sri.may04.snackb925e5075a334a4da3cdbb81b023806d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
